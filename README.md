@@ -115,10 +115,6 @@
 
 <div align="center">
 
-```
-// designer who fell into the terminal rabbit hole 🐧
-// learning devops one sudo at a time ⚙️
-```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aazhrt&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
