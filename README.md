@@ -15,18 +15,6 @@
 
 ---
 
-## `$ whoami`
-
-```yaml
-name        : Muhammad Azhar Tongkodu
-location    : Gorontalo, Indonesia 🌏
-status      : Information Systems Student · 8th Semester
-path        : Designer → Tech → DevOps (in progress 📚)
-vibe        : "learning in public, one command at a time"
-```
-
----
-
 ## `$ cat devops-journey.log`
 
 > ⚠️ *Heads up: I'm new here. This is my honest learning path — no cap.*
