@@ -27,18 +27,6 @@ vibe        : "learning in public, one command at a time"
 
 ---
 
-## `$ cat about.md`
-
-- 🎓 Information Systems @ **Universitas Negeri Gorontalo** (GPA 3.57)
-- 🔄 Former student exchange @ **Universitas Brawijaya** — UX, Data Viz, HCI
-- 🎨 Background in **graphic design & multimedia** — yes, a designer who codes now
-- 🐧 Member of **Kelompok Studi Linux FATEK UNG** — where the terminal love started
-- 💡 Currently diving into **DevOps** — still figuring things out, enjoying the journey
-- 🏆 **Bank Indonesia Scholarship** recipient, 2024
-- 👕 Also founded **Socratez Studio** — a clothing brand with clients in 🇺🇸 because why not
-
----
-
 ## `$ cat devops-journey.log`
 
 > ⚠️ *Heads up: I'm new here. This is my honest learning path — no cap.*
@@ -85,23 +73,6 @@ vibe        : "learning in public, one command at a time"
 
 ---
 
-## `$ cat projects.md`
-
-```
-📦 THINGS I'VE WORKED ON
-│
-├── 🐧 KSL UNG — Recruitment Web Platform UI
-│   ├── UI/UX Design for Linux Study Group's web platform
-│   └── Tools: Figma · Photoshop
-│
-├── 🎨 Gorontalo Creative Youth Ambassador
-│   ├── Graphic design for events, social media & branding
-│   └── Tools: Adobe Illustrator · Photoshop
-│
-└── 👕 Socratez Studio (Founder)
-    ├── Clothing brand — design, marketing, ops, all me
-    └── Reached international clients 🌍
-```
 
 > 💭 *DevOps projects incoming — currently setting up my first home lab. Stay tuned!*
 
