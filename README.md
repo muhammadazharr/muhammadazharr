@@ -88,10 +88,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=aazhrt&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
