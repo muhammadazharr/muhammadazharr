@@ -48,13 +48,8 @@
 ## `$ ./github-stats.sh`
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadazharr&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadazharr&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
-
 </div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadazharr&theme=transparent&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://git.io/streak-stats)
