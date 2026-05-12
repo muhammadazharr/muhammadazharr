@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-                                                                     █████╗ ███████╗██╗  ██╗██████╗
-                                                                    ██╔══██╗╚══███╔╝██║  ██║██╔══██╗
-                                                                    ███████║  ███╔╝ ███████║██████╔╝
-                                                                    ██╔══██║ ███╔╝  ██╔══██║██╔══██╗
-                                                                    ██║  ██║███████╗██║  ██║██║  ██║
-                                                                    ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=60&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&height=120&lines=AZHR" alt="AZHR" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Azhar+%F0%9F%91%8B;Currently+exploring+the+DevOps+world+%F0%9F%9A%80;Designer+turned+tech+enthusiast+%F0%9F%8E%A8;Always+learning%2C+always+building+%F0%9F%94%A7)](https://git.io/typing-svg)
 
