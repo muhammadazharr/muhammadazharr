@@ -29,8 +29,6 @@
 - Infrastructure as Code        → on the roadmap 📋
 ```
 
-*"Every expert was once a beginner. Currently very much the beginner."*
-
 ---
 
 ## `$ ls current-stack/`
