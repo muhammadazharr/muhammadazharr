@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-██╗   ██╗ ██████╗ ██╗   ██╗██████╗     ███╗   ██╗ █████╗ ███╗   ███╗███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔══██╗    ████╗  ██║██╔══██╗████╗ ████║██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║██████╔╝    ██╔██╗ ██║███████║██╔████╔██║█████╗  
-  ╚██╔╝  ██║   ██║██║   ██║██╔══██╗    ██║╚██╗██║██╔══██║██║╚██╔╝██║██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝██║  ██║    ██║ ╚████║██║  ██║██║ ╚═╝ ██║███████╗
-   ╚═╝    ╚═════╝  ╚═════╝ ╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
+ █████╗ ███████╗██╗  ██╗██████╗
+██╔══██╗╚══███╔╝██║  ██║██╔══██╗
+███████║  ███╔╝ ███████║██████╔╝
+██╔══██║ ███╔╝  ██╔══██║██╔══██╗
+██║  ██║███████╗██║  ██║██║  ██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Flutter+%7C+Laravel+%7C+React+Developer;GIS+%26+3D+Simulation+Enthusiast;Building+scalable+systems+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammad+Azhar+%F0%9F%91%8B;Currently+exploring+the+DevOps+world+%F0%9F%9A%80;Designer+turned+tech+enthusiast+%F0%9F%8E%A8;Always+learning%2C+always+building+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,87 +18,92 @@
 ## `$ whoami`
 
 ```yaml
-name       : Your Name
-role       : Software Engineer
-location   : Makassar, Indonesia 🌏
-focus      : Mobile & Backend Systems
-passion    : GIS · 3D Simulation · Clean Architecture
+name        : Muhammad Azhar Tongkodu
+location    : Gorontalo, Indonesia 🌏
+status      : Information Systems Student · 8th Semester
+path        : Designer → Tech → DevOps (in progress 📚)
+vibe        : "learning in public, one command at a time"
 ```
 
 ---
 
 ## `$ cat about.md`
 
-- 🖥️ Software Engineer with experience in **Flutter, Laravel, React**
-- 🌍 Passionate about **Geographic Information Systems (GIS)** & **3D Simulation**
-- 🏢 Worked with **DPR RI**, **Bangkit Digital Gorontalo**, **Timedoor Academy**
-- 📱 Currently building **GoVillage** — Digital Village Service App
-- 🎯 Focused on building **scalable mobile & backend systems**
-- 🧠 Always learning, always shipping
+- 🎓 Information Systems @ **Universitas Negeri Gorontalo** (GPA 3.57)
+- 🔄 Former student exchange @ **Universitas Brawijaya** — UX, Data Viz, HCI
+- 🎨 Background in **graphic design & multimedia** — yes, a designer who codes now
+- 🐧 Member of **Kelompok Studi Linux FATEK UNG** — where the terminal love started
+- 💡 Currently diving into **DevOps** — still figuring things out, enjoying the journey
+- 🏆 **Bank Indonesia Scholarship** recipient, 2024
+- 👕 Also founded **Socratez Studio** — a clothing brand with clients in 🇺🇸 because why not
 
 ---
 
-## `$ ls tech-stack/`
+## `$ cat devops-journey.log`
+
+> ⚠️ *Heads up: I'm new here. This is my honest learning path — no cap.*
+
+```diff
++ Linux & Bash scripting        → getting comfortable 🐧
++ Git & Version Control         → daily driver ✅
++ Docker & Containerization     → learning the basics 🐳
++ CI/CD Concepts                → still connecting the dots 🔧
++ Cloud (AWS/GCP basics)        → just started 🌩️
+- Kubernetes                    → someday... 😅
+- Infrastructure as Code        → on the roadmap 📋
+```
+
+*"Every expert was once a beginner. Currently very much the beginner."*
+
+---
+
+## `$ ls current-stack/`
 
 <div align="center">
 
-**Mobile & Frontend**
+**Learning & Experimenting With**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Database**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**DevOps & Tools**
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**GIS & Simulation**
+**Already Know (from my design days 🎨)**
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+**Studied in Uni**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## `$ cat featured-projects.md`
+## `$ cat projects.md`
 
 ```
-📦 PROJECTS
-├── 🚀 GoVillage
-│   ├── Digital platform for village services
-│   └── Stack: Flutter · Laravel · PostgreSQL
+📦 THINGS I'VE WORKED ON
 │
-├── 📋 Absata App
-│   ├── Attendance & workforce management mobile app
-│   └── Stack: Flutter · Firebase · REST API
+├── 🐧 KSL UNG — Recruitment Web Platform UI
+│   ├── UI/UX Design for Linux Study Group's web platform
+│   └── Tools: Figma · Photoshop
 │
-└── 🌊 3D Flood Simulation GIS
-    ├── Final thesis — GIS-based flood prediction visualization
-    └── Stack: Python · QGIS · ArcGIS · 3D Analyst
+├── 🎨 Gorontalo Creative Youth Ambassador
+│   ├── Graphic design for events, social media & branding
+│   └── Tools: Adobe Illustrator · Photoshop
+│
+└── 👕 Socratez Studio (Founder)
+    ├── Clothing brand — design, marketing, ops, all me
+    └── Reached international clients 🌍
 ```
 
----
-
-## `$ cat learning.log`
-
-```diff
-+ Clean Architecture (Flutter BLoC & scalable systems)
-+ Cloud Deployment & DevOps (Docker, CI/CD)
-+ Advanced GIS Visualization & Spatial Analysis
-```
+> 💭 *DevOps projects incoming — currently setting up my first home lab. Stay tuned!*
 
 ---
 
@@ -106,15 +111,15 @@ passion    : GIS · 3D Simulation · Clean Architecture
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aazhrt&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazhrt&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aazhrt&theme=transparent&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -124,17 +129,17 @@ passion    : GIS · 3D Simulation · Clean Architecture
 
 <div align="center">
 
-[![Spotify](https://novatorem-YOUR_VERCEL_APP.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://novatorem-aazhrt.vercel.app/api/spotify)](https://open.spotify.com/user/wowjustkidding)
 
 </div>
 
 ---
 
-## `$ cat contribution-graph.md`
+## `$ cat activity-graph.md`
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aazhrt&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -144,21 +149,20 @@ passion    : GIS · 3D Simulation · Clean Architecture
 
 ```json
 {
-  "instagram"  : "https://instagram.com/YOUR_INSTAGRAM",
-  "discord"    : "https://discord.com/users/YOUR_DISCORD_ID",
-  "linkedin"   : "https://linkedin.com/in/YOUR_LINKEDIN",
-  "website"    : "https://yourwebsite.com",
-  "email"      : "yourmail@email.com"
+  "instagram"  : "https://www.instagram.com/aazhrt/",
+  "linkedin"   : "https://www.linkedin.com/in/aazhart/",
+  "website"    : "https://azhr.cloud",
+  "email"      : "azhartongkodu1@gmail.com",
+  "spotify"    : "wowjustkidding"
 }
 ```
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@email.com)
+[![Instagram](https://img.shields.io/badge/@aazhrt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aazhrt/)
+[![LinkedIn](https://img.shields.io/badge/aazhart-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aazhart/)
+[![Website](https://img.shields.io/badge/azhr.cloud-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azhr.cloud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhartongkodu1@gmail.com)
 
 </div>
 
@@ -167,9 +171,10 @@ passion    : GIS · 3D Simulation · Clean Architecture
 <div align="center">
 
 ```
-// thanks for stopping by — let's build something cool 🚀
+// designer who fell into the terminal rabbit hole 🐧
+// learning devops one sudo at a time ⚙️
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=aazhrt&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
