@@ -48,7 +48,7 @@
 ## `$ ./github-stats.sh`
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadazharr&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/ username=muhammadazharr&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
 </div>
 <div align="center">
 
