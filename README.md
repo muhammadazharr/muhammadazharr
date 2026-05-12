@@ -49,15 +49,15 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aazhrt&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=muhammadazharr&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aazhrt&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadazharr&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aazhrt&theme=transparent&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadazharr&theme=transparent&hide_border=true&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
@@ -85,22 +85,12 @@
 
 ## `$ cat socials.json`
 
-```json
-{
-  "instagram"  : "https://www.instagram.com/aazhrt/",
-  "linkedin"   : "https://www.linkedin.com/in/aazhart/",
-  "website"    : "https://azhr.cloud",
-  "email"      : "azhartongkodu1@gmail.com",
-  "spotify"    : "wowjustkidding"
-}
-```
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@aazhrt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aazhrt/)
-[![LinkedIn](https://img.shields.io/badge/aazhart-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aazhart/)
-[![Website](https://img.shields.io/badge/azhr.cloud-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azhr.cloud)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhartongkodu1@gmail.com)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aazhrt/)
+[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aazhart/)
+[![Website](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azhr.cloud)
+[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhartongkodu1@gmail.com)
 
 </div>
 
