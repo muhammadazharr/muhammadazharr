@@ -64,27 +64,3 @@
 </div>
 
 ---
-
-
-## `$ cat activity-graph.md`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadazharr&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## `$ cat socials.json`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aazhrt/)
-[![LinkedIn](https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aazhart/)
-[![Website](https://img.shields.io/badge/-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://azhr.cloud)
-[![Email](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azhartongkodu1@gmail.com)
-
-</div>
-
----
