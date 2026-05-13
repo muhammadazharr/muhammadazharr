@@ -20,13 +20,13 @@
 > ⚠️ *Heads up: I'm new here. This is my honest learning path — no cap.*
 
 ```diff
-+ Linux & Bash scripting        → getting comfortable 🐧
-+ Git & Version Control         → daily driver ✅
-+ Docker & Containerization     → learning the basics 🐳
-+ CI/CD Concepts                → still connecting the dots 🔧
-+ Cloud (AWS/GCP basics)        → just started 🌩️
-- Kubernetes                    → someday... 😅
-- Infrastructure as Code        → on the roadmap 📋
++ Linux & Bash scripting        → getting comfortable 
++ Git & Version Control         → daily driver 
++ Docker & Containerization     → learning the basics 
++ CI/CD Concepts                → still connecting the dots 
++ Cloud (AWS/GCP basics)        → just started 
+- Kubernetes                    → someday... 
+- Infrastructure as Code        → on the roadmap 
 ```
 
 ---
