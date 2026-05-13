@@ -17,7 +17,7 @@
 
 ## `$ cat devops-journey.log`
 
-> ⚠️ *Heads up: I'm new here. This is my honest learning path — no cap.*
+> ⚠️ *Heads up: Still newbie. This is my honest learning path.*
 
 ```diff
 + Linux & Bash scripting        → getting comfortable 
