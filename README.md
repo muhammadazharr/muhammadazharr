@@ -48,7 +48,7 @@
 ---
 
 
-> 💭 *Currently setting up my first home lab. Stay tuned!*
+> *Currently setting up my first home lab. Stay tuned!*
 
 ---
 
