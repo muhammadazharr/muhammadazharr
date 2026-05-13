@@ -29,10 +29,6 @@
 
 ---
 
----
-
-## `$ cat devops-journey.log`
-
 > *Still newbie. This is my honest learning path.*
 
 ```diff
